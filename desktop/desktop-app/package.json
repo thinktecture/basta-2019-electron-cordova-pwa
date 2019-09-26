@@ -1,0 +1,9 @@
+{
+  "name": "basta-2019-demo",
+  "main": "main.js",
+  "version": "0.0.0",
+  "dependencies": {
+    "devtron": "^1.4.0",
+    "electron-log": "^3.0.8"
+  }
+}

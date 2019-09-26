@@ -1,0 +1,3 @@
+[submodule "pwa"]
+	path = pwa
+	url = https://github.com/christianliebel/jspaint

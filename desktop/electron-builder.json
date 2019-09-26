@@ -1,0 +1,9 @@
+{
+
+    "appId": "com.thinktecture.apps.electron",
+  "directories": {
+    "app": "dist/basta2019",
+    "output": "publish"
+  }
+
+}

@@ -1,0 +1,4 @@
+<p>products works!</p>
+<div *ngFor="let p of products">
+  <pre [routerLink]="['/','product', p.id]">{{p | json}}</pre>
+</div>
